@@ -15,22 +15,22 @@ export default function Index() {
         <div>
           <h1>
             Hello
-            <span className="fancy">.</span> 
+            <span className="fancy">.</span>
             It's Sour Cream
             <span className="fancy">.</span>
           </h1>
           <span className="handle">
-            Mobile & web application development studio who runs by 
+            Mobile & web application development studio which runs  by
             <a href="https://twitter.com/mehmetkose" target="_blank">@mehmetkose</a>.
             <br />
-            The company focused on building things fast, so we know only few thing.
+            The company focused on building things fast, so we know only a few thing.
             <br />
             But we know very well, such like:
-            <strong>React</strong>,
-            <strong>Next.js</strong>,
+            <strong>React</strong>, 
+            <strong>Next.js</strong>, 
             <strong>Firebase</strong>.
             <br />
-            I collaborate other <strong>contract</strong> developers if the project needed.</span>
+            I collaborate with other <strong>contract</strong> developers if the project is needed.</span>
           <p>contact at <a href={`mailto:info@sourcream.uk`}>info@sourcream.uk</a></p>
           <SocialList />
         </div>
