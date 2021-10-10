@@ -1,0 +1,22 @@
+{
+  "base_url": "https://sourcream.uk",
+  "site_title": "Sour Cream LTD",
+  "site_description": "Mobile & web application development studio.",
+  "site_keywords": [
+    {
+      "keyword": "Contractor Developer"
+    },
+    {
+      "keyword": "React Developer"
+    },
+    {
+      "keyword": "React Native Development Studio"
+    },
+    {
+      "keyword": "Freelancer based on the UK"
+    }
+  ],
+  "posts_per_page": 10,
+  "twitter_account": "@sourcream_uk",
+  "github_account": "sourcream-uk"
+}
