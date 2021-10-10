@@ -23,7 +23,7 @@ export default function Index() {
             Mobile & web application development studio who runs by 
             <a href="https://twitter.com/mehmetkose" target="_blank">@mehmetkose</a>.
             <br />
-            We are focused on building things fast, so we know only few thing.
+            The company focused on building things fast, so we know only few thing.
             <br />
             But we know very well, such like:
             <strong>React</strong>,

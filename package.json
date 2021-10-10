@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next build && next export -o ./dist",
+    "export": "yarn build && next export -o ./dist",
+    "deploy": "yarn export && firebase deploy --only hosting",
     "test": "jest"
   },
   "dependencies": {
