@@ -1,6 +1,6 @@
 {
-  "short_name": "thien",
-  "name": "thien",
+  "short_name": "SourCream",
+  "name": "Sour Cream LTD",
   "icons": [
     {
       "src": "icon.png",
@@ -9,6 +9,6 @@
     }
   ],
   "start_url": "/?utm_source=homescreen",
-  "background_color": "#000000",
-  "theme_color": "#000000"
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
 }
