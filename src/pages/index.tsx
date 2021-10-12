@@ -50,7 +50,7 @@ export default function Index() {
         }
         h2 {
           font-size: 1.75rem;
-          font-weight: 400;
+          font-weight: 600;
           line-height: 1.25;
         }
         .fancy {
